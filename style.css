@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    font-size: 16px;
+}
+ul{
+    margin-top: 30px;
+}
+li{
+    width: 40px;
+    height: 20px;
+    float: right;
+    list-style-type: none;
+    padding: 5px;
+}
