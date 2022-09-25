@@ -14,3 +14,21 @@ li{
     list-style-type: none;
     padding: 5px;
 }
+li:nth-child(2){
+    background:url(app.png) no-repeat ;
+    background-size: 50px;
+    margin-left: 15px;
+}
+button{
+    background-color: blue;
+    color: white
+    border: 1px solid;
+    font-weight: bold;
+    padding: 10px 12px;
+    border-radius: 5px;
+    margin-top: -10px;
+    cursor: pointer;
+}
+li:hover{
+    cursor: pointer;
+}
