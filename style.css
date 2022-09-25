@@ -32,3 +32,22 @@ button{
 li:hover{
     cursor: pointer;
 }
+#content img{
+    width: 350px;
+    height: 150px;
+    margin-top: 200px;
+    margin-left: 250px;
+}
+.textBox {
+    width: 500px;
+    height: 40px;
+    border: 1px solid #6c66af;
+    border-radius:25px;
+}
+.button2 {
+    color: black;
+    font-size: 13px;
+    background-color: #f5f;
+    border: 1px solid #d8d8d8;
+}
+
